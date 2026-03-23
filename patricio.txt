@@ -1,0 +1,3 @@
+Integrante: Patricio
+    Rol: Frontend
+    Proyecto DevOps
